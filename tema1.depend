@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1551989910 source:d:\alice\scoala\lfa\tema1\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<string.h>
+
